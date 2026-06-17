@@ -9,6 +9,8 @@ page-layout: full
 <style>#title-block-header { display: none; }</style>
 ```
 
+{{< include _countdown.qmd >}}
+
 ::: hero
 # The OMB rule would put politics in charge of federal research
 
@@ -24,8 +26,6 @@ official legal record — and specific, expert comments carry real weight.
 [How to comment](how-to-comment.qmd){.btn .btn-cta}
 [Draft a comment with AI](draft-with-ai.qmd){.btn .btn-cta-outline}
 :::
-
-{{< include _countdown.qmd >}}
 
 ## What the rule actually does
 

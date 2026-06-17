@@ -1,0 +1,10 @@
+Type: Website
+Title: Comment on the OMB Rule
+Description: A researcher's guide to the proposed OMB Regulation for Federal
+    Financial Assistance — what it changes, why it threatens science, and how
+    to file a public comment. Built as a Quarto website.
+License: CC-BY-SA
+Encoding: UTF-8
+Depends: R (>= 3.6.0)
+Imports:
+    quarto

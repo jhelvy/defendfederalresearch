@@ -2,8 +2,6 @@
 title: "How to Comment"
 ---
 
-{{< include _countdown.qmd >}}
-
 Public comment is not a petition or a poll — it is a formal step in federal
 rulemaking. Agencies are legally required to consider substantive comments, and
 courts have struck down rules when agencies ignored them. **A specific, expert

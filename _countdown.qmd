@@ -2,7 +2,7 @@
 <div class="deadline-box">
   Public comments are due <strong>July 13, 2026</strong> —
   <span class="dday" id="omb-dday">…</span> left.
-  Comment at <a href="https://www.regulations.gov/docket/OMB-2026-0034" target="_blank" rel="noopener">regulations.gov</a>
+  Comment at <a href="https://www.regulations.gov/docket/OMB-2026-0034">regulations.gov</a>
   (Docket <strong>OMB-2026-0034</strong>).
 </div>
 <script>

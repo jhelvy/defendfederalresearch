@@ -64,5 +64,5 @@ format:
           <meta name="robots" content="index, follow">
     grid:
       body-width: 900px
-    link-external-newwindow: true
+    link-external-newwindow: false
     link-external-icon: true
