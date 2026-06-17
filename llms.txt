@@ -1,0 +1,13 @@
+# Comment on the OMB Rule
+
+> A researcher’s guide to the proposed OMB “Regulation for Federal Financial Assistance” — what it changes, why it threatens science, and how to file a public comment before the deadline.
+
+## Pages
+
+- [The Rule, Section by Section](https://example.org/sections/index.llms.md)
+- [Comment on the OMB Rule](https://example.org/index.llms.md)
+- [FAQ](https://example.org/faq.llms.md)
+- [About this guide](https://example.org/about.llms.md)
+- [Draft a Comment with AI](https://example.org/draft-with-ai.llms.md)
+- [How to Comment](https://example.org/how-to-comment.llms.md)
+- [Resources](https://example.org/resources.llms.md)

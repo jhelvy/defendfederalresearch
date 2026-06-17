@@ -1,25 +1,19 @@
----
-title: "Draft a Comment with AI"
----
+# Draft a Comment with AI
 
-An AI assistant (Claude, ChatGPT, or similar) can turn *your* situation into a solid
-first draft in a couple of minutes. Used well, it lowers the barrier to writing a
-**specific, personal** comment — which is exactly the kind that counts.
+An AI assistant (Claude, ChatGPT, or similar) can turn *your* situation into a solid first draft in a couple of minutes. Used well, it lowers the barrier to writing a **specific, personal** comment — which is exactly the kind that counts.
 
-::: {.callout-warning}
-## Read this before you use it
-- **The draft is a starting point, not a finished comment.** Edit it so it sounds like you.
-- **Verify every fact, number, and claim** before you submit — AI can invent things.
-- **Never submit text you haven't read.** Your name goes on the public record.
-- **Don't share the prompt as a "just submit this" form letter.** Identical comments get
-  collapsed into one. The whole point is that yours is genuinely yours.
-:::
+> **WARNING:**
+>
+> - **The draft is a starting point, not a finished comment.** Edit it so it sounds like you.
+> - **Verify every fact, number, and claim** before you submit — AI can invent things.
+> - **Never submit text you haven’t read.** Your name goes on the public record.
+> - **Don’t share the prompt as a “just submit this” form letter.** Identical comments get collapsed into one. The whole point is that yours is genuinely yours.
 
 ## The prompt
 
 Copy this into your AI assistant, fill in the **ABOUT ME** section, and edit the result.
 
-````markdown
+``` markdown
 You are helping me write a public comment on a proposed U.S. federal regulation:
 the OMB "Regulation for Federal Financial Assistance" (Docket OMB-2026-0034), a
 government-wide overhaul of the rules for federal grants and cooperative agreements.
@@ -49,29 +43,21 @@ Write a public comment of about 300–500 words that:
 5. Reads like a specific, credible expert wrote it — not a form letter.
 Then give me a short checklist of any facts, numbers, or claims I should verify
 before I submit.
-````
+```
 
 ## How to use it
 
-**If your assistant can browse the web** (e.g., Claude with web access, or ChatGPT with
-browsing): it will read our analysis at `llms.txt` and the specific section pages, so its
-draft reflects what the rule actually says.
+**If your assistant can browse the web** (e.g., Claude with web access, or ChatGPT with browsing): it will read our analysis at `llms.txt` and the specific section pages, so its draft reflects what the rule actually says.
 
-**If it can't browse:** open the [section guide](sections/index.qmd), copy the text of the
-section(s) you care about into the chat when it asks, and it will work from that.
+**If it can’t browse:** open the [section guide](sections/index.llms.md), copy the text of the section(s) you care about into the chat when it asks, and it will work from that.
 
-::: {.callout-tip}
-## Why `llms.txt`?
-This site automatically publishes a machine-readable copy of every page (an `llms.txt`
-index plus a `.llms.md` version of each page). That lets an AI assistant read our actual
-analysis and the rule's own wording, instead of guessing — so the draft it gives you is
-grounded, not hallucinated.
-:::
+> **TIP:**
+>
+> This site automatically publishes a machine-readable copy of every page (an `llms.txt` index plus a `.llms.md` version of each page). That lets an AI assistant read our actual analysis and the rule’s own wording, instead of guessing — so the draft it gives you is grounded, not hallucinated.
 
 ## Before you submit
 
-- Read the whole draft and rewrite anything that doesn't sound like you.
+- Read the whole draft and rewrite anything that doesn’t sound like you.
 - Check it opens with the right `[section]` bracket.
-- Verify the facts on the model's checklist.
-- Submit at [regulations.gov, Docket OMB-2026-0034](https://www.regulations.gov/docket/OMB-2026-0034).
-  See [How to Comment](how-to-comment.qmd) for the walkthrough.
+- Verify the facts on the model’s checklist.
+- Submit at [regulations.gov, Docket OMB-2026-0034](https://www.regulations.gov/docket/OMB-2026-0034). See [How to Comment](how-to-comment.llms.md) for the walkthrough.
