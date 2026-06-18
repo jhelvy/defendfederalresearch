@@ -22,6 +22,6 @@ The single biggest multiplier is getting societies, departments, and university 
 
 > **NOTE:**
 >
-> The OMB has proposed a government-wide overhaul of federal grant rules that would put political appointees over scientific peer review, allow active grants to be terminated “for convenience,” and restrict scientific collaboration and publication. Public comments are due **July 13, 2026** (Docket OMB-2026-0034). Here’s a plain-language guide to the rule and how to file a comment: **\[ADD-SITE-URL-HERE\]**
+> The OMB has proposed a government-wide overhaul of federal grant rules that would put political appointees over scientific peer review, allow active grants to be terminated “for convenience,” and restrict scientific collaboration and publication. Public comments are due **July 13, 2026** (Docket OMB-2026-0034). Here’s a plain-language guide to the rule and how to file a comment: **https://defendfederalresearch.org**
 
 *(A fuller share kit — ready-to-post text for Bluesky, Mastodon, X, and LinkedIn, plus shareable graphics — is on the roadmap. See [About](about.llms.md) to contribute.)*

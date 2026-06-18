@@ -1,31 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://example.org/sections/index.html</loc>
-    <lastmod>2026-06-17T18:06:13.340Z</lastmod>
+    <loc>https://defendfederalresearch.org/the-rule.html</loc>
+    <lastmod>2026-06-18T00:10:08.941Z</lastmod>
   </url>
   <url>
-    <loc>https://example.org/index.html</loc>
-    <lastmod>2026-06-17T18:23:42.396Z</lastmod>
+    <loc>https://defendfederalresearch.org/index.html</loc>
+    <lastmod>2026-06-18T00:10:08.941Z</lastmod>
   </url>
   <url>
-    <loc>https://example.org/faq.html</loc>
-    <lastmod>2026-06-17T18:06:32.931Z</lastmod>
+    <loc>https://defendfederalresearch.org/faq.html</loc>
+    <lastmod>2026-06-18T00:10:08.939Z</lastmod>
   </url>
   <url>
-    <loc>https://example.org/about.html</loc>
-    <lastmod>2026-06-17T18:07:01.381Z</lastmod>
+    <loc>https://defendfederalresearch.org/contact-congress.html</loc>
+    <lastmod>2026-06-18T00:10:08.939Z</lastmod>
   </url>
   <url>
-    <loc>https://example.org/draft-with-ai.html</loc>
-    <lastmod>2026-06-17T18:03:51.637Z</lastmod>
+    <loc>https://defendfederalresearch.org/about.html</loc>
+    <lastmod>2026-06-18T00:10:08.939Z</lastmod>
   </url>
   <url>
-    <loc>https://example.org/how-to-comment.html</loc>
-    <lastmod>2026-06-17T18:03:24.670Z</lastmod>
+    <loc>https://defendfederalresearch.org/claims-vs-reality.html</loc>
+    <lastmod>2026-06-18T00:10:08.939Z</lastmod>
   </url>
   <url>
-    <loc>https://example.org/resources.html</loc>
-    <lastmod>2026-06-17T18:06:48.697Z</lastmod>
+    <loc>https://defendfederalresearch.org/draft-with-ai.html</loc>
+    <lastmod>2026-06-18T00:10:08.939Z</lastmod>
+  </url>
+  <url>
+    <loc>https://defendfederalresearch.org/how-to-comment.html</loc>
+    <lastmod>2026-06-18T00:10:08.941Z</lastmod>
+  </url>
+  <url>
+    <loc>https://defendfederalresearch.org/resources.html</loc>
+    <lastmod>2026-06-18T00:10:08.941Z</lastmod>
   </url>
 </urlset>

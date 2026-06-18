@@ -26,7 +26,7 @@ Using AI to help draft is fine — but the comment must be genuinely yours. Read
 
 ## What about the 15% indirect-cost cap I heard about?
 
-This rule does **not** change negotiated indirect cost rates. Congress blocked a proposed 15% cap in the FY2026 appropriations bills, so the rule leaves the indirect-cost system as-is. The changes that matter here are about peer review, terminations, prohibitions, and communication costs — see [the section guide](sections/index.llms.md).
+This rule does **not** change negotiated indirect cost rates. Congress blocked a proposed 15% cap in the FY2026 appropriations bills, so the rule leaves the indirect-cost system as-is. The changes that matter here are about peer review, terminations, prohibitions, and communication costs — see [the section guide](the-rule.llms.md).
 
 ## When would this take effect?
 

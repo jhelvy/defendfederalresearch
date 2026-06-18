@@ -41,7 +41,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-7d897bfd3618415c3339f5ce593b96db.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-04d03d203c0a9f40cd3fd3919bd187ca.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -101,6 +101,14 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link" href="./the-rule.html"> 
+<span class="menu-text">The Rule</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./claims-vs-reality.html"> 
+<span class="menu-text">Claims vs.&nbsp;Reality</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="./how-to-comment.html"> 
 <span class="menu-text">How to Comment</span></a>
   </li>  
@@ -109,8 +117,8 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Draft with AI</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./sections/index.html"> 
-<span class="menu-text">The Rule</span></a>
+    <a class="nav-link" href="./contact-congress.html"> 
+<span class="menu-text">Contact Congress</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./faq.html"> 
@@ -127,7 +135,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/"> <i class="bi bi-github" role="img" aria-label="GitHub">
+    <a class="nav-link" href="https://github.com/jhelvy/omb-response-guide"> <i class="bi bi-github" role="img" aria-label="GitHub">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -204,7 +212,7 @@ ul.task-list li input[type="checkbox"] {
 <i class="callout-icon"></i>
 </div>
 <div class="callout-body-container">
-<p>The OMB has proposed a government-wide overhaul of federal grant rules that would put political appointees over scientific peer review, allow active grants to be terminated “for convenience,” and restrict scientific collaboration and publication. Public comments are due <strong>July 13, 2026</strong> (Docket OMB-2026-0034). Here’s a plain-language guide to the rule and how to file a comment: <strong>[ADD-SITE-URL-HERE]</strong></p>
+<p>The OMB has proposed a government-wide overhaul of federal grant rules that would put political appointees over scientific peer review, allow active grants to be terminated “for convenience,” and restrict scientific collaboration and publication. Public comments are due <strong>July 13, 2026</strong> (Docket OMB-2026-0034). Here’s a plain-language guide to the rule and how to file a comment: <strong>https://defendfederalresearch.org</strong></p>
 </div>
 </div>
 </div>
@@ -287,7 +295,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/example\.org");
+        var filterRegex = new RegExp("https:\/\/defendfederalresearch\.org");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
@@ -301,11 +309,6 @@ ul.task-list li input[type="checkbox"] {
           if (link.dataset.originalHref !== undefined) {
             link.href = link.dataset.originalHref;
           }
-            // target, if specified
-            link.setAttribute("target", "_blank");
-            if (link.getAttribute("rel") === null) {
-              link.setAttribute("rel", "noopener");
-            }
             // default icon
             link.classList.add("external");
         }
@@ -631,7 +634,7 @@ ul.task-list li input[type="checkbox"] {
 <p>Comment deadline: <strong>July 13, 2026</strong> · Docket <strong>OMB-2026-0034</strong></p>
 </div>
     <div class="nav-footer-right">
-<p>Built with <a href="https://quarto.org">Quarto</a>. Source on <a href="https://github.com/">GitHub</a>.</p>
+<p>Built with <a href="https://quarto.org">Quarto</a>. Source on <a href="https://github.com/jhelvy/omb-response-guide">GitHub</a>.</p>
 </div>
   </div>
 </footer>

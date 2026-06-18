@@ -1,7 +1,5 @@
 # How to Comment
 
-Public comments are due **July 13, 2026** — … left. Comment at [regulations.gov](https://www.regulations.gov/docket/OMB-2026-0034) (Docket **OMB-2026-0034**).
-
 Public comment is not a petition or a poll — it is a formal step in federal rulemaking. Agencies are legally required to consider substantive comments, and courts have struck down rules when agencies ignored them. **A specific, expert comment from someone the rule actually affects is one of the most powerful things you can do.**
 
 ## The essentials
@@ -16,7 +14,7 @@ Public comment is not a petition or a poll — it is a formal step in federal ru
 
 ## Step by step
 
-1.  **Pick the section(s) that affect you.** Browse the [section-by-section guide](sections/index.llms.md) and choose the one or two changes that touch your work most directly. Focused beats broad.
+1.  **Pick the section(s) that affect you.** Browse the [section-by-section guide](the-rule.llms.md) and choose the one or two changes that touch your work most directly. Focused beats broad.
 
 2.  **Write from your own experience.** In a few short paragraphs, explain who you are, what you do, and *specifically* how this change would damage your research, your trainees, your patients, or your field. Concrete examples and numbers are far more persuasive than slogans.
 
@@ -52,5 +50,6 @@ Need a starting draft? The [Draft with AI](draft-with-ai.llms.md) page helps you
 ## After you submit
 
 - Save your regulations.gov tracking number.
+- **Send the same message to your members of Congress.** Comments go to OMB; Congress is a separate, powerful lever. See [Contact Congress](contact-congress.llms.md) to find your representatives and reuse what you wrote.
 - Encourage colleagues to write their *own* comments (share the [resources](resources.llms.md) and this guide). Aim for breadth and specificity, not copies.
 - Consider asking your department, scientific society, or institution to file an organizational comment as well — those carry distinct weight.

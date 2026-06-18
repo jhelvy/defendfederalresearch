@@ -1,0 +1,63 @@
+# OMB’s Claims vs. Reality
+
+OMB justifies this rule with a short list of stated objectives: to
+
+1.  Improve transparency, accountability, and oversight for use of Federal taxpayer dollars
+2.  Clarify the status of OMB’s policies… as an OMB regulation
+3.  Reduce recipient burden,” alongside broader rhetoric about “Gold Standard Science” and responsible stewardship.
+
+The problem is that the rule’s actual provisions undercut its own stated goals. Pointing out these contradictions — in your own words, with examples from your work — is one of the most effective things a comment can do, because it challenges the rule on its own terms. The major contradictions:
+
+------------------------------------------------------------------------
+
+## “Improve transparency, accountability, and oversight”
+
+> OMB states that “the overarching goal of OMB’s proposed revisions is to improve transparency, accountability, and oversight for how Federal taxpayer dollars are used.”
+
+**In reality, it reduces transparency.** Today, federal awards are decided largely through **peer review**, where review criteria are published, expert panels evaluate proposals against scientific merit, and the basis for decisions is documented and reviewable. This rule moves the decisive judgment to **closed-door review by senior political appointees** ([§200.205](the-rule.llms.md#s200-205)), who apply undefined, ideological criteria such as “anti-American values” — and explicitly demotes peer review to “advisory.” Replacing documented expert judgment with opaque political discretion makes grantmaking *less* transparent and *less* accountable, not more. There is no public record, no published standard, and no way to scrutinize why a given award was approved or denied.
+
+------------------------------------------------------------------------
+
+## “Reduce recipient burden”
+
+> OMB’s third stated objective is to “reduce recipient burden,” and it even points to encouraging “the use of multi-year awards, thereby reducing the frequency of applications” (§200.202).
+
+**In reality, it increases burden and cost — and contradicts itself.** The rule layers on substantial new compliance obligations and shifts real costs onto institutions:
+
+- **New compliance regimes** to track and certify against new prohibitions — disparate-impact “theories” ([§200.218](the-rule.llms.md#s200-218)), event-services rules ([§200.219](the-rule.llms.md#s200-219)), and “covered foreign collaborations” ([§200.220](the-rule.llms.md#s200-220)) — each requiring legal review, monitoring, and recordkeeping.
+- **Per-activity pre-approval** for routine work: agency sign-off to attend a conference ([§200.432](the-rule.llms.md#s200-432)) or to publish ([§200.461](the-rule.llms.md#s200-461)).
+- **Mandatory E-Verify** for recipients and subrecipients performing work in the U.S.
+- **Costs shifted onto institutions:** publication, open-access, and conference costs made unallowable don’t disappear — universities must absorb them.
+- **Risk-management burden:** because awards can be terminated at any time ([§200.340](the-rule.llms.md#s200-340)) and conditions changed mid-stream (§200.208), institutions must build contingency reserves and manage financial exposure they never carried before.
+
+**The built-in contradiction:** OMB promotes multi-year awards to *reduce* the burden of frequent applications, while simultaneously making those multi-year awards terminable at will — which *increases* uncertainty, planning burden, and financial risk. You cannot reduce burden by making the funding it rests on insecure.
+
+------------------------------------------------------------------------
+
+## “Gold Standard Science,” openness, and public access
+
+> The rule invokes “Gold Standard Science” and the administration’s emphasis on transparent, publicly accessible research, and elsewhere bars recipients from limiting public access to certain records (§200.338).
+
+**In reality, it defunds the dissemination of research.** Making publication costs — explicitly including **article processing charges and open-access fees** — unallowable unless pre-approved ([§200.461](the-rule.llms.md#s200-461)) directly undermines open, transparent science. Federal policy already *requires* that taxpayer-funded research be made freely available to the public; this rule removes the means to comply. You cannot demand open, reproducible, publicly accessible science while refusing to pay the costs that make publishing and open access possible.
+
+------------------------------------------------------------------------
+
+## “Responsible stewardship of taxpayer dollars”
+
+> OMB frames the termination and oversight provisions as protecting “the American taxpayer” and ensuring funds are not wasted.
+
+**In reality, termination-for-convenience wastes taxpayer investment.** Cutting an active, multi-year award partway through strands the public money already spent — half-finished studies, purchased equipment, partially trained students, and unpublished data. Funding instability is itself a form of waste: it raises the effective cost of every project, deters efficient long-term planning, and squanders the returns that only accrue when research is seen through to completion.
+
+------------------------------------------------------------------------
+
+## “Lawful” oversight
+
+> OMB presents the rule as a lawful exercise of its authority to set conditions on federal awards and ensure compliance with the law.
+
+**In reality, much of it may exceed executive authority.** As the National Council of Nonprofits and others have noted, the executive branch generally cannot impose across-the-board terms and conditions on federal grants beyond what Congress has authorized — and several of the underlying policies (on DEI, immigration, and grant terminations) have already been **blocked by federal courts** for conflicting with statute or the Constitution. Codifying those same policies into a binding regulation does not make them lawful; it invites the same legal challenges while creating years of uncertainty for recipients caught in between. If you have relevant expertise, noting that specific provisions appear to exceed OMB’s statutory authority or conflict with existing law is a substantive comment the agency must address.
+
+------------------------------------------------------------------------
+
+## Use these in your comment
+
+When you comment, consider pairing a contradiction above with a concrete example from your own work — e.g., *“OMB says this reduces recipient burden, but here is exactly how much additional administrative and financial burden it would place on my lab/institution…”* Challenging the rule on its own stated objectives is both persuasive and hard to dismiss. See [How to Comment](how-to-comment.llms.md) and [Draft with AI](draft-with-ai.llms.md) to get started.

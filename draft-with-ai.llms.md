@@ -21,9 +21,9 @@ government-wide overhaul of the rules for federal grants and cooperative agreeme
 CONTEXT — read this first if you are able to browse the web:
 A plain-language, section-by-section analysis of the proposed rule, with the rule's
 own text, is published here:
-  https://REPLACE-WITH-SITE-DOMAIN/llms.txt
+  https://defendfederalresearch.org/llms.txt
 To focus on a specific section, read its page, for example:
-  https://REPLACE-WITH-SITE-DOMAIN/sections/section-200-205.llms.md
+  https://defendfederalresearch.org/the-rule.llms.md
 If you cannot browse the web, tell me and I will paste the relevant section text.
 
 ABOUT ME — replace everything in brackets:
@@ -49,7 +49,7 @@ before I submit.
 
 **If your assistant can browse the web** (e.g., Claude with web access, or ChatGPT with browsing): it will read our analysis at `llms.txt` and the specific section pages, so its draft reflects what the rule actually says.
 
-**If it can’t browse:** open the [section guide](sections/index.llms.md), copy the text of the section(s) you care about into the chat when it asks, and it will work from that.
+**If it can’t browse:** open the [section guide](the-rule.llms.md), copy the text of the section(s) you care about into the chat when it asks, and it will work from that.
 
 > **TIP:**
 >

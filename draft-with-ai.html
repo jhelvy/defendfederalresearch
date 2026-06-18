@@ -76,7 +76,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-7d897bfd3618415c3339f5ce593b96db.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-04d03d203c0a9f40cd3fd3919bd187ca.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -136,6 +136,14 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link" href="./the-rule.html"> 
+<span class="menu-text">The Rule</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./claims-vs-reality.html"> 
+<span class="menu-text">Claims vs.&nbsp;Reality</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="./how-to-comment.html"> 
 <span class="menu-text">How to Comment</span></a>
   </li>  
@@ -144,8 +152,8 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <span class="menu-text">Draft with AI</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./sections/index.html"> 
-<span class="menu-text">The Rule</span></a>
+    <a class="nav-link" href="./contact-congress.html"> 
+<span class="menu-text">Contact Congress</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./faq.html"> 
@@ -162,7 +170,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/"> <i class="bi bi-github" role="img" aria-label="GitHub">
+    <a class="nav-link" href="https://github.com/jhelvy/omb-response-guide"> <i class="bi bi-github" role="img" aria-label="GitHub">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -239,9 +247,9 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a>CONTEXT — read this first if you are able to browse the web:</span>
 <span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a>A plain-language, section-by-section analysis of the proposed rule, with the rule's</span>
 <span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a>own text, is published here:</span>
-<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a>  https://REPLACE-WITH-SITE-DOMAIN/llms.txt</span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a>  https://defendfederalresearch.org/llms.txt</span>
 <span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a>To focus on a specific section, read its page, for example:</span>
-<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a>  https://REPLACE-WITH-SITE-DOMAIN/sections/section-200-205.llms.md</span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a>  https://defendfederalresearch.org/the-rule.llms.md</span>
 <span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a>If you cannot browse the web, tell me and I will paste the relevant section text.</span>
 <span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a>ABOUT ME — replace everything in brackets:</span>
@@ -265,7 +273,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <section id="how-to-use-it" class="level2">
 <h2 class="anchored" data-anchor-id="how-to-use-it">How to use it</h2>
 <p><strong>If your assistant can browse the web</strong> (e.g., Claude with web access, or ChatGPT with browsing): it will read our analysis at <code>llms.txt</code> and the specific section pages, so its draft reflects what the rule actually says.</p>
-<p><strong>If it can’t browse:</strong> open the <a href="./sections/index.html">section guide</a>, copy the text of the section(s) you care about into the chat when it asks, and it will work from that.</p>
+<p><strong>If it can’t browse:</strong> open the <a href="./the-rule.html">section guide</a>, copy the text of the section(s) you care about into the chat when it asks, and it will work from that.</p>
 <div class="callout callout-style-default callout-tip callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -366,7 +374,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/example\.org");
+        var filterRegex = new RegExp("https:\/\/defendfederalresearch\.org");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
@@ -380,11 +388,6 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
           if (link.dataset.originalHref !== undefined) {
             link.href = link.dataset.originalHref;
           }
-            // target, if specified
-            link.setAttribute("target", "_blank");
-            if (link.getAttribute("rel") === null) {
-              link.setAttribute("rel", "noopener");
-            }
             // default icon
             link.classList.add("external");
         }
@@ -710,7 +713,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <p>Comment deadline: <strong>July 13, 2026</strong> · Docket <strong>OMB-2026-0034</strong></p>
 </div>
     <div class="nav-footer-right">
-<p>Built with <a href="https://quarto.org">Quarto</a>. Source on <a href="https://github.com/">GitHub</a>.</p>
+<p>Built with <a href="https://quarto.org">Quarto</a>. Source on <a href="https://github.com/jhelvy/omb-response-guide">GitHub</a>.</p>
 </div>
   </div>
 </footer>
