@@ -81,7 +81,7 @@
     "href": "index.html#why-this-is-different",
     "title": "Comment on the OMB Rule",
     "section": "Why this is different",
-    "text": "Why this is different\nSince World War II, U.S. science has rested on three pillars: funding decided by independent expert peer review, open competition on the merits, and institutional autonomy. This single rule weakens all three at once, across the entire federal government. The American Physical Society has called it “an existential threat” to U.S. science."
+    "text": "Why this is different\nSince World War II, U.S. science has rested on three pillars:\n\nFunding decided by independent expert peer review\nOpen competition on the merits\nInstitutional autonomy\n\nThis single rule weakens all three at once, across the entire federal government. The American Physical Society has called it “an existential threat” to U.S. science."
   },
   {
     "objectID": "index.html#what-you-can-do-in-15-minutes",
@@ -291,7 +291,7 @@
     "href": "draft-with-ai.html#the-prompt",
     "title": "Draft a Comment with AI",
     "section": "The prompt",
-    "text": "The prompt\nCopy this into your AI assistant, fill in the ABOUT ME section, and edit the result.\nYou are helping me write a public comment on a proposed U.S. federal regulation:\nthe OMB \"Regulation for Federal Financial Assistance\" (Docket OMB-2026-0034), a\ngovernment-wide overhaul of the rules for federal grants and cooperative agreements.\n\nCONTEXT — read this first if you are able to browse the web:\nA plain-language, section-by-section analysis of the proposed rule, with the rule's\nown text, is published here:\n  https://defendfederalresearch.org/llms.txt\nTo focus on a specific section, read its page, for example:\n  https://defendfederalresearch.org/the-rule.llms.md\nIf you cannot browse the web, tell me and I will paste the relevant section text.\n\nABOUT ME — replace everything in brackets:\n- Field / discipline: [e.g., structural biology]\n- Role and institution type: [e.g., tenure-track PI at an R1 university]\n- Funding I rely on: [e.g., NIH R01, NSF CAREER]\n- What I actually do day to day: [1–2 sentences]\n- The section(s) that worry me most: [e.g., 200.205, 200.340, 200.220]\n- Concrete ways this rule would damage my work or field: [your real examples]\n\nTASK:\nWrite a public comment of about 300–500 words that:\n1. Begins with the section number in brackets, e.g. \"[200.205]\".\n2. Is written in my own voice, grounded in the specifics I gave above.\n3. Makes 2–3 concrete, factual points about real-world harm — not slogans or partisanship.\n4. Stays professional and respectful in tone.\n5. Reads like a specific, credible expert wrote it — not a form letter.\nThen give me a short checklist of any facts, numbers, or claims I should verify\nbefore I submit."
+    "text": "The prompt\nCopy this into your AI assistant, fill in the ABOUT ME section, and edit the result.\nYou are helping me write a public comment on a proposed U.S. federal regulation:\nthe OMB \"Regulation for Federal Financial Assistance\" (Docket OMB-2026-0034), a\ngovernment-wide overhaul of the rules for federal grants and cooperative agreements.\n\nCONTEXT — read this first if you are able to browse the web:\nA plain-language, section-by-section analysis of the proposed rule, with the rule's\nown text, is published here:\n  https://defendfederalresearch.org/llms.txt\nTo focus on a specific section, read its page, for example:\n  https://defendfederalresearch.org/the-rule.llms.md\nThe FULL official text of the proposed rule is available here (large file — search it\nfor the relevant section number, e.g. \"200.340\"):\n  https://defendfederalresearch.org/2026-10817.md\nUse the full text to verify exact wording and to quote the rule accurately. Do not invent,\nparaphrase loosely, or assume what the rule says — if you are unsure, check the full text\nor tell me. If you cannot browse the web, tell me and I will paste the relevant section text.\n\nABOUT ME — replace everything in brackets:\n- Field / discipline: [e.g., structural biology]\n- Role and institution type: [e.g., tenure-track PI at an R1 university]\n- Funding I rely on: [e.g., NIH R01, NSF CAREER]\n- What I actually do day to day: [1–2 sentences]\n- The section(s) that worry me most: [e.g., 200.205, 200.340, 200.220]\n- Concrete ways this rule would damage my work or field: [your real examples]\n\nTASK:\nWrite a public comment of about 300–500 words that:\n1. Begins with the section number in brackets, e.g. \"[200.205]\".\n2. Is written in my own voice, grounded in the specifics I gave above.\n3. Makes 2–3 concrete, factual points about real-world harm — not slogans or partisanship.\n4. Stays professional and respectful in tone.\n5. Reads like a specific, credible expert wrote it — not a form letter.\n6. Makes clear that I am writing in my personal capacity and that these views\n   are my own and do not represent my employer or institution. (I may mention my\n   affiliation for context, but the comment must not purport to speak for it.)\nThen give me a short checklist of any facts, numbers, or claims I should verify\nbefore I submit."
   },
   {
     "objectID": "draft-with-ai.html#how-to-use-it",
@@ -347,14 +347,14 @@
     "href": "resources.html",
     "title": "Resources",
     "section": "",
-    "text": "Submit a comment — Docket OMB-2026-0034 · regulations.gov\nFull proposed rule (PDF) · Federal Register (direct PDF)"
+    "text": "Submit a comment — Docket OMB-2026-0034 · regulations.gov\nFull proposed rule (PDF) · Federal Register (direct PDF)\nFull proposed rule (plain-text Markdown) · https://defendfederalresearch.org/2026-10817.md — a machine-readable copy of the complete rule text, handy for searching and for AI assistants to fact-check against."
   },
   {
     "objectID": "resources.html#the-rule-itself",
     "href": "resources.html#the-rule-itself",
     "title": "Resources",
     "section": "",
-    "text": "Submit a comment — Docket OMB-2026-0034 · regulations.gov\nFull proposed rule (PDF) · Federal Register (direct PDF)"
+    "text": "Submit a comment — Docket OMB-2026-0034 · regulations.gov\nFull proposed rule (PDF) · Federal Register (direct PDF)\nFull proposed rule (plain-text Markdown) · https://defendfederalresearch.org/2026-10817.md — a machine-readable copy of the complete rule text, handy for searching and for AI assistants to fact-check against."
   },
   {
     "objectID": "resources.html#analyses-and-statements",

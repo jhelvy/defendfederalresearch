@@ -4,6 +4,7 @@
 
 - **Submit a comment — Docket OMB-2026-0034** · [regulations.gov](https://www.regulations.gov/docket/OMB-2026-0034)
 - **Full proposed rule (PDF)** · [Federal Register](https://www.federalregister.gov/documents/2026/05/29/2026-10817) ([direct PDF](https://public-inspection.federalregister.gov/2026-10817.pdf))
+- **Full proposed rule (plain-text Markdown)** · <https://defendfederalresearch.org/2026-10817.md> — a machine-readable copy of the complete rule text, handy for searching and for AI assistants to fact-check against.
 
 ## Analyses and statements
 

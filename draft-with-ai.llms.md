@@ -1,12 +1,13 @@
 # Draft a Comment with AI
 
-An AI assistant (Claude, ChatGPT, or similar) can turn *your* situation into a solid first draft in a couple of minutes. Used well, it lowers the barrier to writing a **specific, personal** comment — which is exactly the kind that counts.
+An AI assistant ([Claude](https://claude.ai/), [ChatGPT](https://chatgpt.com/), or similar) can turn *your* situation into a solid first draft in a couple of minutes. Used well, it lowers the barrier to writing a **specific, personal** comment — which is exactly the kind that counts.
 
 > **WARNING:**
 >
 > - **The draft is a starting point, not a finished comment.** Edit it so it sounds like you.
 > - **Verify every fact, number, and claim** before you submit — AI can invent things.
 > - **Never submit text you haven’t read.** Your name goes on the public record.
+> - **Comment in your personal capacity.** These are *your* views, not your employer’s or institution’s. You can note your affiliation for context, but don’t speak on its behalf — and check any institutional policy on public comments if you’re unsure.
 > - **Don’t share the prompt as a “just submit this” form letter.** Identical comments get collapsed into one. The whole point is that yours is genuinely yours.
 
 ## The prompt
@@ -24,7 +25,12 @@ own text, is published here:
   https://defendfederalresearch.org/llms.txt
 To focus on a specific section, read its page, for example:
   https://defendfederalresearch.org/the-rule.llms.md
-If you cannot browse the web, tell me and I will paste the relevant section text.
+The FULL official text of the proposed rule is available here (large file — search it
+for the relevant section number, e.g. "200.340"):
+  https://defendfederalresearch.org/2026-10817.md
+Use the full text to verify exact wording and to quote the rule accurately. Do not invent,
+paraphrase loosely, or assume what the rule says — if you are unsure, check the full text
+or tell me. If you cannot browse the web, tell me and I will paste the relevant section text.
 
 ABOUT ME — replace everything in brackets:
 - Field / discipline: [e.g., structural biology]
@@ -41,13 +47,16 @@ Write a public comment of about 300–500 words that:
 3. Makes 2–3 concrete, factual points about real-world harm — not slogans or partisanship.
 4. Stays professional and respectful in tone.
 5. Reads like a specific, credible expert wrote it — not a form letter.
+6. Makes clear that I am writing in my personal capacity and that these views
+   are my own and do not represent my employer or institution. (I may mention my
+   affiliation for context, but the comment must not purport to speak for it.)
 Then give me a short checklist of any facts, numbers, or claims I should verify
 before I submit.
 ```
 
 ## How to use it
 
-**If your assistant can browse the web** (e.g., Claude with web access, or ChatGPT with browsing): it will read our analysis at `llms.txt` and the specific section pages, so its draft reflects what the rule actually says.
+**If your assistant can browse the web** (e.g., [Claude](https://claude.ai/) with web access, or [ChatGPT](https://chatgpt.com/) with browsing): it will read our analysis at `llms.txt` and the specific section pages, so its draft reflects what the rule actually says.
 
 **If it can’t browse:** open the [section guide](the-rule.llms.md), copy the text of the section(s) you care about into the chat when it asks, and it will work from that.
 
