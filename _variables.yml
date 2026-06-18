@@ -9,3 +9,8 @@ site:
 docket: "OMB-2026-0034"
 docket_url: "https://www.regulations.gov/docket/OMB-2026-0034"
 deadline: "July 13, 2026"
+
+# AI assistant links (used on the "Draft with AI" page)
+ai:
+  claude_url: "https://claude.ai/"
+  chatgpt_url: "https://chatgpt.com/"

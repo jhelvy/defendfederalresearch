@@ -57,11 +57,13 @@ talking points for your comment.
 
 ## Why this is different
 
-Since World War II, U.S. science has rested on three pillars: funding decided by
-**independent expert peer review**, **open competition** on the merits, and
-**institutional autonomy**. This single rule weakens all three at once, across the
-entire federal government. The American Physical Society has called it
-"an existential threat" to U.S. science.
+Since World War II, U.S. science has rested on three pillars:
+
+1. Funding decided by **independent expert peer review**
+2. **Open competition** on the merits
+3. **Institutional autonomy**
+
+This single rule weakens all three at once, across the entire federal government. The American Physical Society has [called it "an existential threat" to U.S. science](https://www.aps.org/initiatives/advocate-amplify/policy/federal-grants-rule-change).
 
 ## What you can do in 15 minutes
 

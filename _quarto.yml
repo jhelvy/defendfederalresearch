@@ -3,10 +3,13 @@ project:
   output-dir: _site
   render:
     - "*.qmd"
-  # Copy the GitHub Pages custom-domain file into _site on every build so it
-  # survives the gh-pages republish.
+  # Files copied verbatim into _site (not rendered as pages):
+  #  - CNAME: GitHub Pages custom domain (must survive the gh-pages republish)
+  #  - 2026-10817.md: full machine-readable text of the proposed rule, served so
+  #    AI assistants and readers can fact-check against the primary source.
   resources:
     - CNAME
+    - 2026-10817.md
 
 website:
   title: "Comment on the OMB Rule"

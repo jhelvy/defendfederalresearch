@@ -9,6 +9,8 @@ title: "Resources"
 - **Full proposed rule (PDF)** ·
   [Federal Register](https://www.federalregister.gov/documents/2026/05/29/2026-10817)
   ([direct PDF](https://public-inspection.federalregister.gov/2026-10817.pdf))
+- **Full proposed rule (plain-text Markdown)** · [{{< var site.url >}}/2026-10817.md]({{< var site.url >}}/2026-10817.md) —
+  a machine-readable copy of the complete rule text, handy for searching and for AI assistants to fact-check against.
 
 ## Analyses and statements
 
