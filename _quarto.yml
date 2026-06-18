@@ -18,7 +18,7 @@ website:
   llms-txt: true
   # Keep in sync with site.url in _variables.yml (this config cannot read that file).
   site-url: "https://defendfederalresearch.org"
-  repo-url: "https://github.com/jhelvy/omb-response-guide"
+  repo-url: "https://github.com/jhelvy/defendfederalresearch"
   open-graph: true
   twitter-card: true
   search:
@@ -48,7 +48,7 @@ website:
       - text: "About"
         href: about.qmd
       - icon: github
-        href: https://github.com/jhelvy/omb-response-guide
+        href: https://github.com/jhelvy/defendfederalresearch
         aria-label: GitHub
   page-footer:
     border: true
@@ -57,7 +57,7 @@ website:
     center: >-
       Comment deadline: **July 13, 2026** · Docket **OMB-2026-0034**
     right: >-
-      Built with [Quarto](https://quarto.org). Source on [GitHub](https://github.com/jhelvy/omb-response-guide).
+      Built with [Quarto](https://quarto.org). Source on [GitHub](https://github.com/jhelvy/defendfederalresearch).
 
 format:
   html:
