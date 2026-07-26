@@ -6,8 +6,8 @@ This is a plain-language guide to what the proposed rule changes, section by sec
 >
 > **How to read the tiers.**
 >
-> critical Directly reshapes how science is funded, governed, or communicated.  
-> notable Meaningful change worth a comment if it touches you.  
+> critical Directly reshapes how science is funded, governed, or communicated.\
+> notable Meaningful change worth a comment if it touches you.\
 > minor Largely technical or housekeeping (e.g., removing an outdated memo reference).
 >
 > Quotations below are from the proposed rule’s own preamble. The full text is in [Docket OMB-2026-0034](https://www.regulations.gov/docket/OMB-2026-0034).
